@@ -1,2 +1,1 @@
-# Nome: Ingrid Tamara Dutra Contreras  
-# RA: 01903012
+# Entrega da AC2
